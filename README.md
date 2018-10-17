@@ -1,2 +1,7 @@
-# tv-overlord
-TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or bittorent.
+# TV Overlord
+
+TV Overlord has moved.  It is now at https://bitbucket.org/tvoverlord/tv-overlord
+
+Tv Overlord will continue to be maintained, hopfully at a faster pace that it has been up to now.  The issues that existed here at GitHub have been saved and will be worked on at BitBucket, feel free to leave more issues there.
+
+Issues: https://bitbucket.org/tvoverlord/tv-overlord/issues?status=new&status=open
